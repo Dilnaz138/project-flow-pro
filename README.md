@@ -8,6 +8,17 @@ ProjectFlow AI helps users organize tasks, track project progress, and receive s
 
 **[Launch ProjectFlow AI](https://projectflow-ai-dilnaz.netlify.app/)**
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Task Manager
+![Task Manager](screenshots/tasks.png)
+
+### AI Assistant
+![AI Assistant](screenshots/assistant.png)
+
 ## Features
 
 - Create, edit, complete, and delete tasks
